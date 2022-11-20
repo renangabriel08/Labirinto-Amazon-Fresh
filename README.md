@@ -8,6 +8,7 @@ Projeto desenvolvido em sala de aula durante as aulas do curso Técnico de Desen
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -37,6 +38,27 @@ Este labóratório foi uma entrega onde o projeto é um mapa que simula o mercad
 
 O layout foi desenvolvido pelos membros do grupo e é todo criado por códigos em lista e uma biblioteca de cores [cli-color](https://www.npmjs.com/package/cli-color).
 
+## 🎮 Como utilizar
+
+OBRIGATÓRIO INSTALAR TODAS BIBLIOTECAS*
+
+- W - Anda para cima
+- A - Anda para esquerda
+- S - Anda para baixo
+- D - Anda para direita
+
+Selecione a quantia de dinheiro para iniciar;
+
+Teletransporte de mapas nas portas localizadas nas partes inferiores e superiores do mapa;
+
+Chaves localizadas no mapa para abrir portas de salas trancadas;
+
+Carrinho e cestos aumentam a capacidade e produtos que podem ser pegos;
+
+Cada produto pego desconta R$ 10,00 e 1 de capacidade;
+
+Digite "Reset" para resetar o tudo.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
@@ -44,11 +66,11 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito por: 
-- Renan :wave: [LinkedIn](https://www.linkedin.com/in/renan-gabriel/)
-- Daniel :wave: [LinkedIn](https://www.linkedin.com/in/danielfernandes0304/)
-- Leonardo :wave:
-- Samuel :wave: [LinkedIn](https://www.linkedin.com/in/samuel-gon%C3%A7alves-493b7a255/)
-- Gabriel :wave: [LinkedIn](https://www.linkedin.com/in/gabsouzkkj/)
-- Vitor :wave: [LinkedIn](https://www.linkedin.com/in/vitor-junior-25230b249/)
-- Lucas :wave:
-- Mateus :wave:
+- Renan :wave: [LinkedIn](https://www.linkedin.com/in/renan-gabriel/) | [GitHub](https://github.com/renangabriel08)
+- Daniel :wave: [LinkedIn](https://www.linkedin.com/in/danielfernandes0304/) | [GitHub](https://github.com/Daniel-Fernandes0304)
+- Leonardo :wave: [GitHub](https://github.com/LeoMazuka)
+- Samuel :wave: [LinkedIn](https://www.linkedin.com/in/samuel-gon%C3%A7alves-493b7a255/) | [GitHub](https://github.com/Muelson)
+- Gabriel :wave: [LinkedIn](https://www.linkedin.com/in/gabsouzkkj/) | [GitHub](https://github.com/gabsouzkkj)
+- Vitor :wave: [LinkedIn](https://www.linkedin.com/in/vitor-junior-25230b249/) | [GitHub](https://github.com/vitornegueba)
+- Lucas :wave: [GitHub](https://github.com/xxxlucasmatheus)
+- Mateus :wave: [GitHub](https://github.com/mateussantospereira)
